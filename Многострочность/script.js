@@ -1,0 +1,2 @@
+let str = `abc
+def`

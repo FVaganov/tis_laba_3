@@ -1,0 +1,1 @@
+alert(true + false);(1)
